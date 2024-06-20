@@ -1,0 +1,8 @@
+tls-client
+colorama
+pytz
+requests
+ua-parser
+ua-generator
+websocket-client
+print('omkjyn')
